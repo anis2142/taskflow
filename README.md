@@ -26,15 +26,12 @@ their academic progress through interactive charts.
 
 ## Demo Login Credentials
 
-Five demo accounts are available.
+Twodemo accounts are available.
 
 | Username | Password |
 |---|---|
 | anis | 1234 |
 | aina | 1234 |
-| hafiz | 1234 |
-| siti | 1234 |
-| danial | 1234 |
 
 ## Technologies Used
 
