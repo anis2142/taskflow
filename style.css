@@ -325,3 +325,10 @@ footer {
     flex-direction: column;
   }
 }
+@media (max-width: 991px) {
+  .task-navbar .navbar-collapse.show {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
